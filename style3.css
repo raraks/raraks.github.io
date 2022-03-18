@@ -5,3 +5,7 @@ body{
     background-attachment: fixed;
     text-align: center
 }
+
+li, h1, h3, h3 {
+    color: azure;
+}
